@@ -1,2 +1,2 @@
-# revised_reducer
+# usereducer-practice
 Created with CodeSandbox
